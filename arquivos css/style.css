@@ -138,3 +138,46 @@ footer .caixa-rodape h2 {
 #A6926D
 #735340
 */
+
+/*Reviews*/
+.review-direita{
+    display: inline-block;
+    margin-bottom: 5%;
+}
+
+.review-direita img{
+    float: left;
+    margin-right: 2%;
+}
+
+.review-esquerda{
+    display: inline-block;
+    margin-bottom: 5%;
+}
+
+.review-esquerda img{
+    float: right;
+    margin-left: 2%;
+}
+
+.review-direita h2{
+    text-align: end;
+}
+
+.review-direita h2 a{
+    text-decoration: none;
+    color: black;
+}
+
+.review-esquerda h2 a{
+    text-decoration: none;
+    color: black;
+}
+
+.review-direita p{
+    text-align: justify;
+}
+
+.review-esquerda p{
+    text-align: justify;
+}
